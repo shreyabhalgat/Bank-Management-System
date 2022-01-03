@@ -41,10 +41,10 @@ Exit.
 
 
 Concept used:-
-Basic data types
-Loops
-Switch cases
-Go to functions
-Functions without parameters
-Object oriented programming
-File Handling
+Basic data types,
+Loops,
+Switch cases,
+Go to functions,
+Functions without parameters,
+Object oriented programming,
+File Handling,
